@@ -169,8 +169,6 @@ a.social:hover {
 
 .exp-div {
   clear: both;
-  max-width: 85%;
-  margin: auto;
 }
 
 .exp-img {
@@ -178,10 +176,6 @@ a.social:hover {
 }
 
 /* Styles for "Hobbies" page*/
-
-/*.hobbies {
-  margin-top: 150px;
-}*/
 
 .hobbies-img {
   max-width: 100%;
