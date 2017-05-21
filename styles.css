@@ -274,7 +274,7 @@ a.social:hover {
   }
 
   .bottom-div {
-    clear: left;
+    clear: both;
   }
 
   .hobbies-footer {
