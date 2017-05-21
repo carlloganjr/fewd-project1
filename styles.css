@@ -167,6 +167,16 @@ a.social:hover {
   clear: both;
 }
 
+.exp-div {
+  clear: both;
+  max-width: 85%;
+  margin: auto;
+}
+
+.exp-img {
+  max-width: 100%;
+}
+
 /* Styles for "Hobbies" page*/
 
 /*.hobbies {
@@ -192,7 +202,6 @@ a.social:hover {
 .hobbies-footer {
   clear: both;
 }
-
 
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
@@ -228,6 +237,16 @@ a.social:hover {
     font-size: 1.3em;
     max-width: 1200px;
     margin: 40px auto;
+  }
+
+  .exp-div {
+    clear: both;
+    max-width: 70%;
+    margin: auto;
+  }
+
+  .exp-img {
+    max-width: 100%;
   }
 
   /* Styles for "Hobbies" page*/
